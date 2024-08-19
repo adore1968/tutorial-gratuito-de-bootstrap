@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green" display="inline" >
 
-## Trabaja paso a paso en el diseño de tu web en tiempo record. 
+## Como aprender a  maquetar un Sitio Web usando Bootstrap desde 0.
 
 ### Lo que aprendi:
 - HTML5 + CSS3 + Jquery (Desarrollo de un Proyecto Real).
