@@ -1,0 +1,21 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.bienvenidos {
+  min-height: 100vh;
+  background-image: url("../img/fondo-bienvenidos.jpg");
+  background-size: cover;
+}
+
+.bienvenidos .container {
+  padding-top: 8rem;
+}
+
+.proyectos img {
+  transition: transform 0.3s ease;
+}
+
+.proyectos img:hover {
+  transform: scale(1.5);
+}
